@@ -6,7 +6,7 @@ pre {
   padding: 0
 }
 
-/* Update img to add height: auto. This fixes an issue where images were distorted in small windows */
+/* Update img to add height: auto. This fixes an issue where images were distorted in small windows if a height was specified when the image was inserted into the post */
 img {
   display: block;
   max-width: 100%;
