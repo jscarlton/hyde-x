@@ -5,3 +5,12 @@
 pre {
   padding: 0
 }
+
+/* Update img to add height: auto. This fixes an issue where images were distorted in small windows */
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}
