@@ -1,6 +1,8 @@
 Hyde-X
 ======
 
+My updates to the Hyde-X theme for Hugo. Original readme follows:
+
 Enhanced port of the Jekyll "[Hyde](https://github.com/poole/hyde)" theme to the [Hugo](http://gohugo.io) site generator. Check below for a list of enhancements.
 
 You can find a live site using this theme [here](http://andreimihu.com) and the corresponding source code [here](https://github.com/zyro/andreimihu.com).
